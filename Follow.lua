@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Tayp779/TopPro997/refs/heads/main/Follow.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tayp779/TopPro/main/follow.lua"))()
